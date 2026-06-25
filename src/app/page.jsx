@@ -19,5 +19,6 @@ const [salas, setSalas] =  useState(listaSalas)
     
       
     </div>
+    
   );
 }
